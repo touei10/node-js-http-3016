@@ -1,0 +1,55 @@
+2019-07-19T18:53:43.282891+00:00 app[api]: Release v1 created by user touei10.github@gmail.com
+2019-07-19T18:53:43.699944+00:00 app[api]: Release v2 created by user touei10.github@gmail.com
+2019-07-19T18:53:43.699944+00:00 app[api]: Enable Logplex by user touei10.github@gmail.com
+2019-07-19T19:00:47.000000+00:00 app[api]: Build started by user touei10.github@gmail.com
+2019-07-19T19:01:04.373720+00:00 app[api]: Deploy b7845cd8 by user touei10.github@gmail.com
+2019-07-19T19:01:04.387946+00:00 app[api]: Scaled to web@1:Free by user touei10.github@gmail.com
+2019-07-19T19:01:04.373720+00:00 app[api]: Release v3 created by user touei10.github@gmail.com
+2019-07-19T19:01:05.000000+00:00 app[api]: Build succeeded
+2019-07-19T19:01:06.843983+00:00 heroku[web.1]: Starting process with command `npm start`
+2019-07-19T19:01:08.986761+00:00 heroku[web.1]: State changed from starting to crashed
+2019-07-19T19:01:08.994550+00:00 heroku[web.1]: State changed from crashed to starting
+2019-07-19T19:01:08.902025+00:00 app[web.1]: npm ERR! missing script: start
+2019-07-19T19:01:08.906516+00:00 app[web.1]: 
+2019-07-19T19:01:08.906770+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2019-07-19T19:01:08.906902+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2019-07-19T19_01_08_903Z-debug.log
+2019-07-19T19:01:08.969082+00:00 heroku[web.1]: Process exited with status 1
+2019-07-19T19:01:12.263731+00:00 heroku[web.1]: Starting process with command `npm start`
+2019-07-19T19:01:15.531327+00:00 heroku[web.1]: State changed from starting to crashed
+2019-07-19T19:01:15.512245+00:00 heroku[web.1]: Process exited with status 1
+2019-07-19T19:01:15.428616+00:00 app[web.1]: npm ERR! missing script: start
+2019-07-19T19:01:15.437954+00:00 app[web.1]: 
+2019-07-19T19:01:15.438521+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2019-07-19T19:01:15.438781+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2019-07-19T19_01_15_430Z-debug.log
+2019-07-19T19:03:34.057837+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/enquetes/yaki-shabu" host=enigmatic-island-70830.herokuapp.com request_id=4c42270c-5004-4c4a-9c29-ead21f04cdb1 fwd="60.73.57.192" dyno= connect= service= status=503 bytes= protocol=https
+2019-07-19T19:03:39.116656+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=enigmatic-island-70830.herokuapp.com request_id=857bbe55-b440-4dff-a9ce-bf726f20ef60 fwd="60.73.57.192" dyno= connect= service= status=503 bytes= protocol=https
+2019-07-19T19:04:29.526639+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/enquetes/yaki-shabu" host=enigmatic-island-70830.herokuapp.com request_id=1baa8b0c-a9de-4117-b174-43b7abdfd3f9 fwd="60.73.57.192" dyno= connect= service= status=503 bytes= protocol=https
+2019-07-19T19:04:32.129928+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=enigmatic-island-70830.herokuapp.com request_id=1fed894a-d15a-4c2e-82b9-6e8f285d8309 fwd="60.73.57.192" dyno= connect= service= status=503 bytes= protocol=https
+2019-07-19T19:08:22.486897+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/enquetes/yaki-shabu" host=enigmatic-island-70830.herokuapp.com request_id=5d64f911-2357-4fbd-a406-350cdfb0ba57 fwd="60.73.57.192" dyno= connect= service= status=503 bytes= protocol=https
+2019-07-19T19:08:29.598095+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=enigmatic-island-70830.herokuapp.com request_id=809cff71-889f-4e4b-ae1f-0297b07e9c36 fwd="60.73.57.192" dyno= connect= service= status=503 bytes= protocol=https
+2019-07-19T19:16:20.000000+00:00 app[api]: Build started by user touei10.github@gmail.com
+2019-07-19T19:16:42.639872+00:00 app[api]: Deploy cd9b7fae by user touei10.github@gmail.com
+2019-07-19T19:16:42.639872+00:00 app[api]: Release v4 created by user touei10.github@gmail.com
+2019-07-19T19:16:42.941492+00:00 heroku[web.1]: State changed from crashed to starting
+2019-07-19T19:16:43.000000+00:00 app[api]: Build succeeded
+2019-07-19T19:16:46.698400+00:00 heroku[web.1]: Starting process with command `npm start`
+2019-07-19T19:16:50.175245+00:00 heroku[web.1]: State changed from starting to crashed
+2019-07-19T19:16:50.191412+00:00 heroku[web.1]: State changed from crashed to starting
+2019-07-19T19:16:50.157504+00:00 heroku[web.1]: Process exited with status 1
+2019-07-19T19:16:50.044265+00:00 app[web.1]: npm ERR! missing script: start
+2019-07-19T19:16:50.055622+00:00 app[web.1]: 
+2019-07-19T19:16:50.056024+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2019-07-19T19:16:50.056167+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2019-07-19T19_16_50_046Z-debug.log
+2019-07-19T19:16:52.717583+00:00 heroku[web.1]: Starting process with command `npm start`
+2019-07-19T19:16:55.893991+00:00 heroku[web.1]: State changed from starting to crashed
+2019-07-19T19:16:55.874235+00:00 heroku[web.1]: Process exited with status 1
+2019-07-19T19:16:55.773381+00:00 app[web.1]: npm ERR! missing script: start
+2019-07-19T19:16:55.785436+00:00 app[web.1]: 
+2019-07-19T19:16:55.785982+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2019-07-19T19:16:55.786257+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2019-07-19T19_16_55_775Z-debug.log
+2019-07-19T19:16:56.651650+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/enquetes/yaki-shabu" host=enigmatic-island-70830.herokuapp.com request_id=f2be334c-cbfe-4960-b1ed-5f5ff4f0c0e2 fwd="60.73.57.192" dyno= connect= service= status=503 bytes= protocol=https
+2019-07-19T19:16:59.235551+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=enigmatic-island-70830.herokuapp.com request_id=c42c4f0a-411c-489f-b8dc-e033cddb6658 fwd="60.73.57.192" dyno= connect= service= status=503 bytes= protocol=https
+2019-07-19T19:18:13.804101+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/enquetes/yaki-shabu" host=enigmatic-island-70830.herokuapp.com request_id=8a11663b-7204-4296-8f11-75afed1a9455 fwd="60.73.57.192" dyno= connect= service= status=503 bytes= protocol=https
+2019-07-19T19:18:17.425397+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=enigmatic-island-70830.herokuapp.com request_id=441cdf37-339f-41ef-bc61-bba62dfe5e36 fwd="60.73.57.192" dyno= connect= service= status=503 bytes= protocol=https
+2019-07-19T19:18:25.496539+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="//enquetes/yaki-shabu" host=enigmatic-island-70830.herokuapp.com request_id=d00c6ee7-b9de-4c80-ab3a-bca0fef5784b fwd="60.73.57.192" dyno= connect= service= status=503 bytes= protocol=https
+2019-07-19T19:18:29.138542+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=enigmatic-island-70830.herokuapp.com request_id=22ed9eda-4d5c-46e5-ad7f-bad1ae6b1211 fwd="60.73.57.192" dyno= connect= service= status=503 bytes= protocol=https
